@@ -13,7 +13,7 @@
   },
   {
     "description": "Streaming service bundle",
-    "amount": "$29.97",
+    "amount": 29.97,
     "category": "entertainment",
     "timestamp": "2024-06-03T20:45:00"
   },
